@@ -1,5 +1,5 @@
 {
-  "version": "0.65.0",
+  "version": "0.66.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -1955,7 +1955,7 @@
           "status": "done"
         },
         {
-          "title": "管理员指令集 268/288",
+          "title": "管理员指令集 271/288",
           "status": "in-progress"
         },
         {
