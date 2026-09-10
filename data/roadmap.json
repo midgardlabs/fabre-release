@@ -1,5 +1,5 @@
 {
-  "version": "0.66.0",
+  "version": "0.67.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -793,8 +793,8 @@
           "status": "done"
         },
         {
-          "title": "生命体技能 6/58",
-          "status": "in-progress"
+          "title": "生命体技能 58/58",
+          "status": "done"
         },
         {
           "title": "佣兵技能 41/41",
@@ -1096,40 +1096,40 @@
       "name": "地图服务器 · 生命体技能",
       "items": [
         {
-          "title": "丽芙 1/4",
-          "status": "in-progress"
+          "title": "丽芙 4/4",
+          "status": "done"
         },
         {
-          "title": "艾咪斯可鲁 1/4",
-          "status": "in-progress"
+          "title": "艾咪斯可鲁 4/4",
+          "status": "done"
         },
         {
-          "title": "飞里乐 1/4",
-          "status": "in-progress"
+          "title": "飞里乐 4/4",
+          "status": "done"
         },
         {
-          "title": "巴尼米乐斯 0/4",
-          "status": "planned"
+          "title": "巴尼米乐斯 4/4",
+          "status": "done"
         },
         {
-          "title": "艾萝 0/8",
-          "status": "planned"
+          "title": "艾萝 8/8",
+          "status": "done"
         },
         {
-          "title": "巴耶黎 0/9",
-          "status": "planned"
+          "title": "巴耶黎 9/9",
+          "status": "done"
         },
         {
-          "title": "赛拉 0/7",
-          "status": "planned"
+          "title": "赛拉 7/7",
+          "status": "done"
         },
         {
-          "title": "迪尔特 1/8",
-          "status": "in-progress"
+          "title": "迪尔特 8/8",
+          "status": "done"
         },
         {
-          "title": "伊琳诺雅 2/10",
-          "status": "in-progress"
+          "title": "伊琳诺雅 10/10",
+          "status": "done"
         }
       ]
     },
@@ -1706,11 +1706,11 @@
         },
         {
           "title": "VIP 资格生命周期",
-          "status": "planned"
+          "status": "done"
         },
         {
           "title": "VIP 权益规则",
-          "status": "planned"
+          "status": "done"
         }
       ]
     },
@@ -1719,31 +1719,31 @@
       "items": [
         {
           "title": "拍卖查询",
-          "status": "planned"
+          "status": "done"
         },
         {
           "title": "拍卖上架",
-          "status": "planned"
+          "status": "done"
         },
         {
           "title": "拍卖撤单",
-          "status": "planned"
+          "status": "done"
         },
         {
           "title": "拍卖竞价",
-          "status": "planned"
+          "status": "done"
         },
         {
           "title": "拍卖直购",
-          "status": "planned"
+          "status": "done"
         },
         {
           "title": "拍卖提前结案",
-          "status": "planned"
+          "status": "done"
         },
         {
           "title": "拍卖到期结算",
-          "status": "planned"
+          "status": "done"
         }
       ]
     },
@@ -1842,7 +1842,7 @@
           "status": "done"
         },
         {
-          "title": "地图标记集 74/79",
+          "title": "地图标记集 75/79",
           "status": "in-progress"
         },
         {
@@ -1955,7 +1955,7 @@
           "status": "done"
         },
         {
-          "title": "管理员指令集 271/288",
+          "title": "管理员指令集 274/288",
           "status": "in-progress"
         },
         {
@@ -1972,7 +1972,7 @@
         },
         {
           "title": "反外挂验证码",
-          "status": "planned"
+          "status": "done"
         }
       ]
     },
@@ -2041,7 +2041,7 @@
           "status": "done"
         },
         {
-          "title": "脚本指令集 521/605",
+          "title": "脚本指令集 523/605",
           "status": "in-progress"
         },
         {
@@ -2148,11 +2148,11 @@
         },
         {
           "title": "离线摆摊",
-          "status": "planned"
+          "status": "done"
         },
         {
           "title": "离线收购",
-          "status": "planned"
+          "status": "done"
         }
       ]
     },
