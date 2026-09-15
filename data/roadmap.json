@@ -1,5 +1,5 @@
 {
-  "version": "0.67.1",
+  "version": "0.68.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -769,7 +769,7 @@
           "status": "done"
         },
         {
-          "title": "三转职业技能 12/266",
+          "title": "三转职业技能 25/266",
           "status": "in-progress"
         },
         {
@@ -896,55 +896,55 @@
       "name": "地图服务器 · 三转职业技能",
       "items": [
         {
-          "title": "卢恩骑士 0/13",
-          "status": "planned"
+          "title": "卢恩骑士 13/13",
+          "status": "done"
         },
         {
-          "title": "咒术士 0/25",
-          "status": "planned"
-        },
-        {
-          "title": "游侠 0/24",
-          "status": "planned"
-        },
-        {
-          "title": "大主教 1/22",
+          "title": "咒术士 1/25",
           "status": "in-progress"
         },
         {
-          "title": "机械工匠 0/31",
-          "status": "planned"
-        },
-        {
-          "title": "十字斩首者 0/19",
-          "status": "planned"
-        },
-        {
-          "title": "皇家禁卫队 0/21",
-          "status": "planned"
-        },
-        {
-          "title": "妖术师 10/28",
+          "title": "游侠 1/24",
           "status": "in-progress"
         },
         {
-          "title": "宫廷乐师 0/25",
-          "status": "planned"
+          "title": "大主教 2/22",
+          "status": "in-progress"
         },
         {
-          "title": "浪姬舞者 0/25",
-          "status": "planned"
+          "title": "机械工匠 1/31",
+          "status": "in-progress"
         },
         {
-          "title": "修罗 0/24",
-          "status": "planned"
+          "title": "十字斩首者 1/19",
+          "status": "in-progress"
         },
         {
-          "title": "魅影追踪者 0/23",
-          "status": "planned"
+          "title": "皇家禁卫队 1/21",
+          "status": "in-progress"
         },
         {
-          "title": "基因学者 1/19",
+          "title": "妖术师 11/28",
+          "status": "in-progress"
+        },
+        {
+          "title": "宫廷乐师 1/25",
+          "status": "in-progress"
+        },
+        {
+          "title": "浪姬舞者 1/25",
+          "status": "in-progress"
+        },
+        {
+          "title": "修罗 1/24",
+          "status": "in-progress"
+        },
+        {
+          "title": "魅影追踪者 1/23",
+          "status": "in-progress"
+        },
+        {
+          "title": "基因学者 2/19",
           "status": "in-progress"
         }
       ]
