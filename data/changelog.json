@@ -1,5 +1,111 @@
 [
   {
+    "version": "0.69.0",
+    "date": "2026-09-16",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "实现 \"属性漩涡\" 技能: 消耗四颗元素球, 连续造成四段属性攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"释放\" 技能: 发射召唤的元素球或施放已保存的魔法"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"阅读魔法书\" 技能: 使用魔法书保存已学技能供后续释放"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"魔法储存\" 技能: 提高魔法书保存容量"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"召唤火焰球\", \"召唤雷电球\", \"召唤水球\", \"召唤石块\" 技能: 召唤元素球"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"毁灭慧星\" 技能: 对指定区域造成无属性魔法伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"地牛翻身\" 技能: 向前释放连续推进的地属性攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"连锁电击\" 技能: 以风属性魔法连续攻击并在敌人间跳跃"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"地狱火焰\" 技能: 对范围内敌人先后造成火属性与暗属性伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"碧血陨石\" 技能: 对范围内敌人造成火属性伤害并击退"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"冻僵术\" 技能: 水属性范围攻击, 对 \"寒冰浓雾\" 中的目标增伤"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"寒冰浓雾\" 技能: 造成水属性范围伤害并有概率附加冰冷"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"灵魂爆炸\" 技能: 念属性范围攻击, 对 \"白色监狱\" 中的目标造成双倍伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"吸星大法\" 技能: 造成魔法伤害并有概率吸收伤害恢复 HP"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"白色监狱\" 技能: 禁锢自身或敌人, 阻挡多数伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"魔力冻结\" 技能: 封锁范围内目标的魔法与演奏技能"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"石化诅咒\" 技能: 有概率使目标及其周围敌人石化"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"深渊沼地\" 技能: 降低目标的 AGI / DEX 与移动速度"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"终极念力\" 技能: 强化念属性魔法并减少其 SP 消耗, 缩短可变咏唱"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"魔法省悟\" 技能: 以魔法攻击力上限施法, 增加 SP 消耗"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"半径扩大\" 技能: 补齐固定咏唱减免效果"
+      },
+      {
+        "type": "feature",
+        "description": "实现 `spellbook_db.yml` 魔法书配置: 设置可保存技能与所需储存点数"
+      },
+      {
+        "type": "feature",
+        "description": "实现 `@reloadskilldb` 的魔法书配置重载"
+      },
+      {
+        "type": "fix",
+        "description": "修复角色重新登录后部分持续效果 (如中毒 / 燃烧) 未按原有间隔生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复幻觉状态 (`SC_HALLUCINATION`) 下技能伤害数字未变化的问题"
+      }
+    ]
+  },
+  {
     "version": "0.68.0",
     "date": "2026-09-15",
     "changes": [

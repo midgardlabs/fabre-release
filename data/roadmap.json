@@ -1,5 +1,5 @@
 {
-  "version": "0.68.0",
+  "version": "0.69.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -769,7 +769,7 @@
           "status": "done"
         },
         {
-          "title": "三转职业技能 25/266",
+          "title": "三转职业技能 49/266",
           "status": "in-progress"
         },
         {
@@ -900,8 +900,8 @@
           "status": "done"
         },
         {
-          "title": "咒术士 1/25",
-          "status": "in-progress"
+          "title": "咒术士 25/25",
+          "status": "done"
         },
         {
           "title": "游侠 1/24",
