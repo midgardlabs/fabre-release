@@ -1,5 +1,5 @@
 {
-  "version": "0.69.0",
+  "version": "0.70.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -769,7 +769,7 @@
           "status": "done"
         },
         {
-          "title": "三转职业技能 49/266",
+          "title": "三转职业技能 73/266",
           "status": "in-progress"
         },
         {
@@ -904,7 +904,7 @@
           "status": "done"
         },
         {
-          "title": "游侠 1/24",
+          "title": "游侠 24/24",
           "status": "in-progress"
         },
         {
@@ -940,7 +940,7 @@
           "status": "in-progress"
         },
         {
-          "title": "魅影追踪者 1/23",
+          "title": "魅影追踪者 2/23",
           "status": "in-progress"
         },
         {

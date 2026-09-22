@@ -1,5 +1,123 @@
 [
   {
+    "version": "0.70.0",
+    "date": "2026-09-22",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "实现 \"箭雨风暴\" 技能: 对目标周围敌人造成弓箭范围伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"瞄准标靶\" 技能: 对单个目标造成弓箭伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"微风恐惧\" 技能: 弓箭普攻有概率追加连击"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"菁英狙击\" 技能: 提升远程物理伤害, 不作用于战狼攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"伪装战术\" 技能: 隐藏身形并逐步提升攻击与暴击, 同时降低防御"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"游侠主意\" 被动防御效果: 降低动物 / 鱼贝 / 植物种族魔物造成的伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"召狼术\" 技能: 召唤或收回战狼"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"骑狼术\" 技能: 骑乘战狼或解除骑乘"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"疾狼术\" 技能: 骑狼向前奔跑, 碰撞敌人时造成范围伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"狼突击\" 技能: 指挥战狼攻击, 普攻时也可概率触发"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"狼咬\" 技能: 战狼攻击目标并使其定身"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"狼牙\" 被动技能: 提升战狼伤害并强化 \"狼咬\" 效果"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"敏锐嗅觉\" 技能: 探测隐身敌人 / 回收陷阱, 有概率触发 \"狼咬\""
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"榴霰弹\" 技能: 布置触发后造成范围伤害的陷阱"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"电击陷阱\" 技能: 束缚范围内目标并持续扣除 SP"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"燃烧陷阱\" 技能: 造成范围伤害并有概率附加燃烧"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"冰封陷阱\" 技能: 造成范围伤害并有概率附加冰冻"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"雷管\" 技能: 引爆指定区域内自身布置的陷阱"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"紫红陷阱\", \"深蓝陷阱\" 技能: 将非 Boss 魔物分别变为火 / 水属性"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"浅黄陷阱\", \"青翠陷阱\" 技能: 将非 Boss 魔物分别变为地 / 风属性"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"陷阱研究\" 被动技能: 提升 INT / 最大 SP 并强化陷阱"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"魅影形态\" 技能: 将自身受到的伤害转移给另一名玩家, 有次数限制"
+      },
+      {
+        "type": "feature",
+        "description": "实现 `size_fix.yml` 武器体型修正配置: 调整武器对不同体型的伤害倍率"
+      },
+      {
+        "type": "fix",
+        "description": "修复复兴前模式下玩家武器伤害未正确考虑 DEX / 武器等级与弓箭规则的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复诅咒等状态下物理攻击伤害计算错误的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备的暴击减伤效果未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备的非暴击攻击加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备按最大 HP 削减或限制单次受伤的效果未生效的问题"
+      }
+    ]
+  },
+  {
     "version": "0.69.0",
     "date": "2026-09-16",
     "changes": [
