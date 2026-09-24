@@ -1,5 +1,131 @@
 [
   {
+    "version": "0.71.0",
+    "date": "2026-09-25",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"千年神盾\" 技能: 随机生成多层护盾抵挡伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"重击强袭\" 技能: 强化下一次普攻, 有概率损坏武器"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"力量成长\" 技能: 提升 STR 与普攻伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"提升斗志\" 技能: 提升自身武器攻击力与攻速"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"岩石皮肤\" 技能: 提升物理与魔法防御, 受击时反制攻击者"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"恢复\" 技能: 回复 HP 并清除指定异常状态"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"生命激化\" 技能: 提升道具 HP 回复量并减少受到的反射伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"丰足\" 技能: 定时回复 SP"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"致命涂毒\" 技能: 强化武器伤害并有概率使目标中致命毒素"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"凶砍最大值\" 技能: 消耗 Zeny 提升武器伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"薄雾墙\" 技能: 布置雾区致盲敌人并削弱远程攻击与点选技能"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"巫师的灵魂\" 技能: 施法免耗宝石但仍须持有, 不含 \"咖般塔音\""
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"中性防护罩\" 技能: 提升范围内防御并阻挡远程非魔法攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"面具: 忧郁\" 技能: 降低目标命中与攻速并解除骑乘"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"武器抵御\" 技能: 概率格挡攻击, 配套反击技能尚未实现"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"致命伤口\", \"广域致命伤口\" 魔物技能: 造成伤害并降低目标受疗效果"
+      },
+      {
+        "type": "fix",
+        "description": "修复武器攻击对眩晕 / 睡眠 / 冰冻 / 石化目标仍会未命中的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复中毒 / 石化 / 冰冻期间防御属性修正错误的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复复兴前模式下失明 / 中毒 / 石化等待 / 混乱 / 诅咒抗性计算错误的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复诅咒状态未降低移动速度的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复短时石化状态结束时仍触发周期伤害的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备的技能后摇减免及技能后摇配置未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备的必中与攻击 / 受击附加异常状态效果未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备按比例削减目标 HP/SP 与固定吸取 SP 的效果未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备按目标种族 / 类别触发濒死效果未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备的定时 HP/SP 回复与损耗效果未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备的防击退效果未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备与恢复药水提供的道具治疗加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"药水投掷\" 未正确应用药水组恢复加成的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复复兴前模式下自用 `Poison_Laughing` 后技能后摇减免未生效的问题"
+      }
+    ]
+  },
+  {
     "version": "0.70.0",
     "date": "2026-09-22",
     "changes": [

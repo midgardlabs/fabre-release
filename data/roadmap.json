@@ -1,5 +1,5 @@
 {
-  "version": "0.70.0",
+  "version": "0.71.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -769,7 +769,7 @@
           "status": "done"
         },
         {
-          "title": "三转职业技能 73/266",
+          "title": "三转职业技能 77/266",
           "status": "in-progress"
         },
         {
@@ -781,11 +781,11 @@
           "status": "in-progress"
         },
         {
-          "title": "扩展职业技能 95/378",
+          "title": "扩展职业技能 96/378",
           "status": "in-progress"
         },
         {
-          "title": "NPC 技能 6/173",
+          "title": "NPC 技能 8/173",
           "status": "in-progress"
         },
         {
@@ -905,18 +905,18 @@
         },
         {
           "title": "游侠 24/24",
-          "status": "in-progress"
+          "status": "done"
         },
         {
           "title": "大主教 2/22",
           "status": "in-progress"
         },
         {
-          "title": "机械工匠 1/31",
+          "title": "机械工匠 2/31",
           "status": "in-progress"
         },
         {
-          "title": "十字斩首者 1/19",
+          "title": "十字斩首者 3/19",
           "status": "in-progress"
         },
         {
@@ -940,7 +940,7 @@
           "status": "in-progress"
         },
         {
-          "title": "魅影追踪者 2/23",
+          "title": "魅影追踪者 3/23",
           "status": "in-progress"
         },
         {
@@ -1039,8 +1039,8 @@
           "status": "planned"
         },
         {
-          "title": "悟灵士 0/27",
-          "status": "planned"
+          "title": "悟灵士 1/27",
+          "status": "in-progress"
         },
         {
           "title": "拳皇 0/20",
