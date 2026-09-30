@@ -1,5 +1,5 @@
 {
-  "version": "0.71.0",
+  "version": "0.72.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -769,11 +769,11 @@
           "status": "done"
         },
         {
-          "title": "三转职业技能 77/266",
+          "title": "三转职业技能 97/266",
           "status": "in-progress"
         },
         {
-          "title": "四转职业技能 8/192",
+          "title": "四转职业技能 9/192",
           "status": "in-progress"
         },
         {
@@ -908,8 +908,8 @@
           "status": "done"
         },
         {
-          "title": "大主教 2/22",
-          "status": "in-progress"
+          "title": "大主教 22/22",
+          "status": "done"
         },
         {
           "title": "机械工匠 2/31",
@@ -969,8 +969,8 @@
           "status": "planned"
         },
         {
-          "title": "枢机主教 0/17",
-          "status": "planned"
+          "title": "枢机主教 1/17",
+          "status": "in-progress"
         },
         {
           "title": "风鹰狩猎者 0/14",
@@ -2041,7 +2041,7 @@
           "status": "done"
         },
         {
-          "title": "脚本指令集 523/605",
+          "title": "脚本指令集 536/605",
           "status": "in-progress"
         },
         {

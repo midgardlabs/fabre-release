@@ -1,5 +1,63 @@
 [
   {
+    "version": "0.72.0",
+    "date": "2026-09-30",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "实现 20 项大主教技能: 涵盖队伍治疗 / 增益 / 异常解除 / 圣属性攻击与复活法阵"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"圣光打击\" 技能: 范围物理攻击, 可由 \"二道圣光\" 触发"
+      },
+      {
+        "type": "fix",
+        "description": "修复自定义装备的 ATK/MATK/DEF 数值未正确生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 `guildchangegm` 脚本指令无法更换公会会长的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"疾狼术\" 因前方宠物阻挡而无法施放的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复骑狼时在地图边缘自动触发 \"狼突击\" 后未停止冲刺的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复玩家对处于结晶状态的玩家造成武器伤害时倍率错误的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复深度睡眠持续恢复与烧伤持续伤害未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本施加的吸血 / 涂毒 / 受击产球状态未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"冥想\" 未提高 \"治愈术\" 回复量的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本随机传送未遵守传送门落点限制的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 `@warp` 传送其他角色时错误使用操作者通行权限的问题"
+      },
+      {
+        "type": "improve",
+        "description": "优化 `@warp`: 不可通行坐标会先提示并尝试附近落点"
+      }
+    ]
+  },
+  {
     "version": "0.71.0",
     "date": "2026-09-25",
     "changes": [
