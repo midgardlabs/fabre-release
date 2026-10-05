@@ -1,5 +1,31 @@
 [
   {
+    "version": "0.74.0",
+    "date": "2026-10-05",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "实现 \"纤细药水投掷\" 技能: 为范围内的队伍 / 公会成员恢复生命值"
+      },
+      {
+        "type": "fix",
+        "description": "修复 Windows 首次启动无法创建 SQLite 数据库的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"挑衅\" 未能触发装备附带的濒死效果的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复目标受 \"牺牲\" 保护时, 延迟生效的 \"狂击\" 仍错误附加眩晕的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本施加禁疗状态后, 回复道具仍可恢复 HP/SP 的问题"
+      }
+    ]
+  },
+  {
     "version": "0.73.0",
     "date": "2026-10-01",
     "changes": [

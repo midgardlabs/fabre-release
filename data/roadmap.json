@@ -1,5 +1,5 @@
 {
-  "version": "0.73.0",
+  "version": "0.74.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -769,7 +769,11 @@
           "status": "done"
         },
         {
-          "title": "三转职业技能 97/266",
+          "title": "进阶二转职业技能 5/62",
+          "status": "planned"
+        },
+        {
+          "title": "三转职业技能 89/266",
           "status": "in-progress"
         },
         {
@@ -893,10 +897,67 @@
       ]
     },
     {
+      "name": "地图服务器 · 进阶二转职业技能",
+      "items": [
+        {
+          "title": "骑士领主 1/8",
+          "status": "planned"
+        },
+        {
+          "title": "神官 1/5",
+          "status": "planned"
+        },
+        {
+          "title": "超魔导师 0/6",
+          "status": "planned"
+        },
+        {
+          "title": "神工匠 1/5",
+          "status": "planned"
+        },
+        {
+          "title": "神射手 0/4",
+          "status": "planned"
+        },
+        {
+          "title": "十字刺客 1/5",
+          "status": "planned"
+        },
+        {
+          "title": "圣殿十字军 0/4",
+          "status": "planned"
+        },
+        {
+          "title": "武术宗师 0/4",
+          "status": "planned"
+        },
+        {
+          "title": "智者 1/8",
+          "status": "planned"
+        },
+        {
+          "title": "神行太保 0/4",
+          "status": "planned"
+        },
+        {
+          "title": "创造者 0/3",
+          "status": "planned"
+        },
+        {
+          "title": "搞笑艺人 0/6",
+          "status": "planned"
+        },
+        {
+          "title": "冷艳舞姬 0/6",
+          "status": "planned"
+        }
+      ]
+    },
+    {
       "name": "地图服务器 · 三转职业技能",
       "items": [
         {
-          "title": "卢恩骑士 13/13",
+          "title": "卢恩骑士 5/13",
           "status": "in-progress"
         },
         {
