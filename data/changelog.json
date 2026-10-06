@@ -1,5 +1,131 @@
 [
   {
+    "version": "0.75.0",
+    "date": "2026-10-06",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "实现 \"圆桌舞蹈\": 周围范围攻击与击退, 无法完整击退时追加攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"修罗身弹\": 接近目标并击退, 撞墙时追加攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"血色烙印\": 标记最多三个目标, 降低回避并显示位置"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式的 \"火焰步\", \"电流步\": 玩家与魔物移动时留下伤害区域"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备的指定技能附加状态效果: 按技能与概率施加异常状态"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备针对指定魔物的增伤与减伤效果"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备的条件增伤及按来源属性 / 体型 / 攻击条件生效的减伤效果"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备的近战 / 远程攻击减伤效果"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备按目标种族 / 阶级回复固定 HP / SP 的效果"
+      },
+      {
+        "type": "feature",
+        "description": "实现 `disable_pvm` 禁止以魔物为攻击或技能目标 (不兼容变更): 全放行组须显式设为 `deny`"
+      },
+      {
+        "type": "feature",
+        "description": "实现 `disable_pvp` 禁止以玩家为攻击或技能目标 (不兼容变更): 全放行组须显式设为 `deny`"
+      },
+      {
+        "type": "fix",
+        "description": "修复双手武器的装备 / 卡片 / 随机词条加成未正确生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备针对魔物分组的增伤与减伤效果计算错误的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复双持武器的吸血 / 吸蓝效果混用左右手加成的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备与卡片的攻击变形效果未改变魔物的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复种族暴击加成与攻击睡眠目标时的暴击率未正确生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复角色在 \"伪装\" 状态下施放其他技能后仍保持隐身的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复击退跨越视野边界时角色 / 魔物与周围对象显示异常的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复施法处理延迟时, 装备触发的自动施法伤害再次延后的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复复兴后模式下 \"加速术\" 未正确增加攻速的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"海洋力量\" / \"突破极限\" / \"心灵超越\" 的治疗加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复女性超级初学者对配偶施放 \"治愈术\" 时未计入配偶加成的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复复兴后模式下 \"圣母之祈福\" 未增加防御的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复腹痛状态未降低属性 / 周期扣除 SP 和强制坐下的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复燃烧状态未降低软魔法防御的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本施加 `SC_GLOOMYDAY`, `SC_CRESCIVEBOLT` 后 SP 增耗不生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本施加 `SC__UNLUCKY` 后技能未增加金币消耗的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本施加武道家灵魂后, \"连环全身掌\" / \"猛龙夸强\" 的 SP 消耗未固定为 2 的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备 STR 加成错误增加基础负重上限, 部分负重加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复技能树重算后已失效技能仍影响移动速度的问题"
+      }
+    ]
+  },
+  {
     "version": "0.74.0",
     "date": "2026-10-05",
     "changes": [
