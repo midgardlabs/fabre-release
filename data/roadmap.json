@@ -1,5 +1,5 @@
 {
-  "version": "0.75.0",
+  "version": "0.76.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -1903,7 +1903,7 @@
           "status": "done"
         },
         {
-          "title": "地图标记集 75/79",
+          "title": "地图标记集 76/79",
           "status": "in-progress"
         },
         {

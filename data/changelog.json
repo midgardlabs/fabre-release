@@ -1,5 +1,199 @@
 [
   {
+    "version": "0.76.0",
+    "date": "2026-10-07",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "实现技能伤害数据库: 按施法者类型 / 目标类型及地图类别 / 区域调整伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备对武器物理攻击力的倍率加成"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式下装备对武器魔法攻击力的倍率加成"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备对物理 / 魔法防御的倍率加成"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备的魔法 / 杂项伤害减免效果"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备魔法减伤: 按攻击者的体型 / 防御属性生效"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备针对指定魔物的魔法增伤 / 减伤效果"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后模式下的装备效果: 按目标种族忽略部分 RES / MRES"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备的武器攻击特效: 有概率将指定属性 / 种族 / 阶级的目标 HP / SP 降至 1"
+      },
+      {
+        "type": "feature",
+        "description": "实现装备暴击率加成: 对使用弹药的普攻生效"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"无限连锁\": 使用各类枪械时均有概率触发连锁攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"瞬速子弹\": 连锁攻击后追击原目标与范围内的标记目标"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"疯狂凯斯乐\": 提升攻击力与攻速"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"格林狂热\": 提升攻击力与攻速, 降低回避与移动速度"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"加速子弹\": 消耗硬币提升攻击力与攻速, 降低命中"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"王牌出手\": 提升远程攻击伤害与 P.ATK"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"点穴-反\": 提升物理攻击与攻速"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"强化冲击\": 强化下一次普通攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"太阳和月亮和星星的憎恶\": 登记憎恶目标并获得愤怒加成, `20051010` 前客户端无登记提示"
+      },
+      {
+        "type": "feature",
+        "description": "实现拳圣日月星奇迹: 攻击时有概率获得已学 \"星星的愤怒\" 的加成"
+      },
+      {
+        "type": "feature",
+        "description": "实现 `nosunmoonstarmiracle` 地图标记: 禁止触发日月星奇迹"
+      },
+      {
+        "type": "feature",
+        "description": "实现超级初学者自救: 基础经验达到 99% 时获得一次免死机会"
+      },
+      {
+        "type": "feature",
+        "description": "实现超级初学者无死亡奖励: 职业等级达 70 或已扩展的角色, 六项基础属性各加 10"
+      },
+      {
+        "type": "feature",
+        "description": "实现 `PC_DIE_COUNTER` 脚本参数: 查询与设置角色死亡次数"
+      },
+      {
+        "type": "feature",
+        "description": "实现 `cardfix_monster_physical` 配置项: 魔物攻击默认按物理攻击条件计算卡片效果"
+      },
+      {
+        "type": "fix",
+        "description": "修复防具精炼提供的防御过高, 且多件防具总加成计算不准确的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复双持武器时过度精炼的伤害加成计算错误的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备按魔物分组配置的魔法增伤 / 忽略魔防效果误按种族生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备的技能增伤 / 减伤效果在魔法攻击中计算错误的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复装备脚本的移动速度百分比加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 `weapon_defense_type` 非零时硬防转软防未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复弹药的命中 / 暴击加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复复兴后模式下非玩家单位的武器攻击暴击时伤害偏低的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"毒性感染\" 的爆炸伤害可能未命中主目标的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"心神凝聚\" 未放大装备提供的敏捷与灵巧加成的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"冥想\", \"吸魂术\", \"凯易娜\", \"课程\" 的最大 SP 加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复召唤师与超级初学者被动技能的最大 HP / SP 加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"单枪射击\", \"瞄准之眼\" 的枪械命中 / 攻速与射程加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"大地力量\", \"生命力量\" 的基础属性 / 命中 / 闪避与暴击加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"榴弹精通\" 的 CON 加成与 \"引魂术研究\" 的 SPL 加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本施加 \"透明术\" 状态后未持续消耗 SP, 且攻速 / 暴击修正未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本施加 \"丰年颂\" 状态后持续回血与最大 HP 加成未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本施加 \"魔力拳\" 状态后普攻未转换为魔法攻击的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本施加 \"活力之源\" 状态后近战普攻增伤未生效的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本施加 \"凯阿希\" 状态后受到普攻时未消耗 SP 恢复 HP 的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复脚本设置 `CELL_MAELSTROM` 后未吸收地面武器 / 魔法伤害的问题"
+      },
+      {
+        "type": "improve",
+        "description": "调整 `refine_armor_def` (不兼容变更): 自定义公式须将普通防具精炼总加成除以 100 并四舍五入"
+      }
+    ]
+  },
+  {
     "version": "0.75.0",
     "date": "2026-10-06",
     "changes": [
