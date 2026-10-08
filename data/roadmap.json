@@ -1,5 +1,5 @@
 {
-  "version": "0.76.0",
+  "version": "0.77.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -769,11 +769,11 @@
           "status": "done"
         },
         {
-          "title": "进阶二转职业技能 6/62",
+          "title": "进阶二转职业技能 13/62",
           "status": "in-progress"
         },
         {
-          "title": "三转职业技能 100/266",
+          "title": "三转职业技能 101/266",
           "status": "in-progress"
         },
         {
@@ -781,15 +781,15 @@
           "status": "in-progress"
         },
         {
-          "title": "多兰族职业技能 1/54",
+          "title": "多兰族职业技能 5/54",
           "status": "in-progress"
         },
         {
-          "title": "扩展职业技能 98/378",
+          "title": "扩展职业技能 100/378",
           "status": "in-progress"
         },
         {
-          "title": "NPC 技能 10/173",
+          "title": "NPC 技能 12/173",
           "status": "in-progress"
         },
         {
@@ -900,7 +900,7 @@
       "name": "地图服务器 · 进阶二转职业技能",
       "items": [
         {
-          "title": "骑士领主 1/8",
+          "title": "骑士领主 4/8",
           "status": "in-progress"
         },
         {
@@ -908,16 +908,16 @@
           "status": "in-progress"
         },
         {
-          "title": "超魔导师 0/6",
-          "status": "planned"
+          "title": "超魔导师 2/6",
+          "status": "in-progress"
         },
         {
           "title": "神工匠 1/5",
           "status": "in-progress"
         },
         {
-          "title": "神射手 0/4",
-          "status": "planned"
+          "title": "神射手 1/4",
+          "status": "in-progress"
         },
         {
           "title": "十字刺客 1/5",
@@ -928,11 +928,11 @@
           "status": "planned"
         },
         {
-          "title": "武术宗师 0/4",
-          "status": "planned"
+          "title": "武术宗师 1/4",
+          "status": "in-progress"
         },
         {
-          "title": "智者 1/8",
+          "title": "智者 2/8",
           "status": "in-progress"
         },
         {
@@ -985,7 +985,7 @@
           "status": "in-progress"
         },
         {
-          "title": "妖术师 13/28",
+          "title": "妖术师 14/28",
           "status": "in-progress"
         },
         {
@@ -1071,7 +1071,7 @@
       "name": "地图服务器 · 多兰族职业技能",
       "items": [
         {
-          "title": "召唤师 1/36",
+          "title": "召唤师 5/36",
           "status": "in-progress"
         },
         {
@@ -1120,11 +1120,11 @@
           "status": "planned"
         },
         {
-          "title": "神枪手 0/22",
-          "status": "planned"
+          "title": "神枪手 1/22",
+          "status": "in-progress"
         },
         {
-          "title": "叛乱者 2/20",
+          "title": "叛乱者 3/20",
           "status": "in-progress"
         },
         {
