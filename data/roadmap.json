@@ -1,5 +1,5 @@
 {
-  "version": "0.77.0",
+  "version": "0.78.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -769,7 +769,7 @@
           "status": "done"
         },
         {
-          "title": "进阶二转职业技能 13/62",
+          "title": "进阶二转职业技能 36/62",
           "status": "in-progress"
         },
         {
@@ -900,28 +900,28 @@
       "name": "地图服务器 · 进阶二转职业技能",
       "items": [
         {
-          "title": "骑士领主 4/8",
-          "status": "in-progress"
+          "title": "骑士领主 8/8",
+          "status": "done"
         },
         {
-          "title": "神官 1/5",
-          "status": "in-progress"
+          "title": "神官 5/5",
+          "status": "done"
         },
         {
-          "title": "超魔导师 2/6",
-          "status": "in-progress"
+          "title": "超魔导师 6/6",
+          "status": "done"
         },
         {
-          "title": "神工匠 1/5",
-          "status": "in-progress"
+          "title": "神工匠 5/5",
+          "status": "done"
         },
         {
-          "title": "神射手 1/4",
-          "status": "in-progress"
+          "title": "神射手 4/4",
+          "status": "done"
         },
         {
-          "title": "十字刺客 1/5",
-          "status": "in-progress"
+          "title": "十字刺客 5/5",
+          "status": "done"
         },
         {
           "title": "圣殿十字军 0/4",

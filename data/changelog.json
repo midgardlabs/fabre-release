@@ -1,5 +1,131 @@
 [
   {
+    "version": "0.78.0",
+    "date": "2026-10-09",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "实现 \"极速回复\": 坐下并加快 HP 自然恢复"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"伤害增压\": 攻击敌人并有概率造成出血"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"螺旋击刺\": 攻击单体并使可受定身的目标无法移动"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"巧打\": 攻击敌人并有概率造成随机部位的负面状态"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"魔击术\": 将魔法攻击力用于单体物理攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"念力连击\": 对目标及周围敌人造成念属性伤害, 并有概率诅咒"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"咖般塔音\": 有概率清除范围内可清除的地面技能"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"重力原野\": 在指定区域持续造成伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后 \"神圣殿堂\": 增强对暗 / 不死属性目标的物理伤害及圣属性魔法伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴前 \"神圣殿堂\": 建立保护区域, 阻挡攻击并击退进入的敌人"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"圣母之祈福\": 复兴后提升防御与受疗量, 复兴前降低受到的伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"野蛮凶砍\": 攻击时有概率破坏玩家武器 / 盔甲, 或削弱魔物攻击 / 体质"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"手推车加速\": 携带手推车时提升移动速度"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"手推车终结技\": 按车重造成伤害, 并有概率使目标眩晕"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"武器精练\": 选择武器消耗材料尝试精炼, 失败时武器销毁"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"狙杀瞄准\": 提升六维属性 / 命中 / 暴击及武器伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"猎鹰突击\": 命令猎鹰攻击单个目标"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"锐利射击\": 复兴后造成范围伤害, 复兴前贯穿箭道上的敌人"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"高阶拳刃修练\": 提升装备拳刃时的武器伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"毒液制作\": 消耗材料尝试制造毒药瓶, 失败时损失 HP"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"心灵震波\": 对单体发动远程攻击, 复兴前附加 INT 伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"黑暗瞬间\": 攻击周围敌人, 并有概率造成黑暗 / 晕眩 / 出血"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"博爱治愈\": 治疗目标及其周围队员"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"治愈誓言\": 持续治疗目标及其周围队员"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"悟灵士的灵魂\": 允许目标悟灵士向其他职业施放 \"凯易特\""
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"凯易特\": 为符合条件的目标提供魔法反射"
+      },
+      {
+        "type": "feature",
+        "description": "实现 \"漩涡\": 吸收玩家在范围内新施放的非陷阱地面技能, 为漩涡施法者恢复 SP"
+      },
+      {
+        "type": "feature",
+        "description": "实现脚本参数 `Karma`: 可读写玩家数值, 双方非零时可在普通地图敌对"
+      },
+      {
+        "type": "fix",
+        "description": "修复 \"圣光打击\" 施放后未获得 AP 的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复目标在读条期间移到墙后仍被伤害技能命中的问题"
+      }
+    ]
+  },
+  {
     "version": "0.77.0",
     "date": "2026-10-08",
     "changes": [
