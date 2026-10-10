@@ -1,5 +1,123 @@
 [
   {
+    "version": "0.79.0",
+    "date": "2026-10-10",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "实现武术宗师技能 \"猛虎硬爬山\": 延迟攻击并击退目标"
+      },
+      {
+        "type": "feature",
+        "description": "实现武术宗师技能 \"伏虎拳\": 连招攻击并有概率使目标无法移动"
+      },
+      {
+        "type": "feature",
+        "description": "实现武术宗师技能 \"气绝崩击\": 消耗气弹发动连招攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现悟灵士技能 \"武道家的灵魂\": 使武道家系连招仅消耗 2 SP"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后修罗技能 \"潜龙升天\": 增加最大 HP / SP 与气弹上限, 并补充气弹"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后修罗技能 \"点穴-球\": 普攻或受击时有概率获得气弹"
+      },
+      {
+        "type": "feature",
+        "description": "实现智者技能 \"HP转换\": 消耗 HP 按技能等级恢复 SP"
+      },
+      {
+        "type": "feature",
+        "description": "实现智者技能 \"心神互换\": 交换双方 SP, 复兴后各减半, 对同一魔物仅可恢复自身 SP 一次"
+      },
+      {
+        "type": "feature",
+        "description": "实现智者技能 \"精神耗弱术\": 有概率清空目标 SP, 失败时反噬自身, 5 级另造成魔法伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现智者技能 \"精神撼动\": 有概率提高目标魔法攻击力并降低魔法防御, 成功时打断读条"
+      },
+      {
+        "type": "feature",
+        "description": "实现智者技能 \"速读术\": 将已学技能的可变咏唱时间减半, 最多生效 5 次"
+      },
+      {
+        "type": "feature",
+        "description": "实现智者技能 \"易燃之网\": 消耗蜘蛛丝束缚目标, 可叠加三层并受火属性攻击消耗"
+      },
+      {
+        "type": "feature",
+        "description": "实现圣殿十字军技能 \"神之威压\": 复兴后造成魔法伤害, 复兴前造成固定伤害并削减 SP"
+      },
+      {
+        "type": "feature",
+        "description": "实现圣殿十字军技能 \"连续盾击\": 使用盾牌连续攻击目标, 伤害受盾重与精炼影响"
+      },
+      {
+        "type": "feature",
+        "description": "实现圣殿十字军技能 \"舍命攻击\": 将接下来五次普攻改为按最大 HP 造成伤害, 每击消耗 HP"
+      },
+      {
+        "type": "feature",
+        "description": "实现圣殿十字军技能 \"圣音\": 在周围区域随机给予队员增益, 或对敌人造成伤害与负面状态"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后帝国圣卫军技能 \"攻击架式\": 提升攻击力并降低防御力"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后帝国圣卫军技能 \"盾牌投掷\": 攻击目标及周围敌人, 并短暂强化盾击"
+      },
+      {
+        "type": "feature",
+        "description": "实现创造者技能 \"所有化学武器保护\": 同时保护已装备的武器 / 盾牌 / 铠甲 / 头饰"
+      },
+      {
+        "type": "feature",
+        "description": "实现创造者技能 \"强酸火烟瓶投掷\": 消耗火烟瓶与酸瓶攻击目标, 并有概率破坏武器 / 铠甲"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后十字斩首者与魔物技能 \"幻影步\": 提升回避并有概率躲避魔法"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后月影忍者技能 \"阴月的幻影\": 按目标 HP 奇偶恢复或消耗 HP / SP, 并分散魔法伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后日影忍者技能 \"虚无飘妙之影\": 阻断装备反射与魔法反射镜"
+      },
+      {
+        "type": "feature",
+        "description": "实现神枪手技能 \"终极闪躲\": 消耗硬币提升回避并降低命中, 减少受到的远程武器伤害"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后叛乱者技能 \"火焰暴雨\": 沿直线造成伤害并清除可清除的地面技能"
+      },
+      {
+        "type": "feature",
+        "description": "实现复兴后魔物技能 \"极限痛苦\": 受到伤害时反击攻击者及其周围敌人"
+      },
+      {
+        "type": "fix",
+        "description": "修复怪物或分身被反伤击杀后, 本次即时伤害与保护转伤未结算的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复多人击杀 Boss 时墓碑署名与实际 MVP 或掉落归属不一致的问题"
+      }
+    ]
+  },
+  {
     "version": "0.78.0",
     "date": "2026-10-09",
     "changes": [

@@ -1,5 +1,5 @@
 {
-  "version": "0.78.0",
+  "version": "0.79.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -769,7 +769,7 @@
           "status": "done"
         },
         {
-          "title": "进阶二转职业技能 36/62",
+          "title": "进阶二转职业技能 51/62",
           "status": "in-progress"
         },
         {
@@ -924,24 +924,24 @@
           "status": "done"
         },
         {
-          "title": "圣殿十字军 0/4",
-          "status": "planned"
+          "title": "圣殿十字军 4/4",
+          "status": "done"
         },
         {
-          "title": "武术宗师 1/4",
-          "status": "in-progress"
+          "title": "武术宗师 4/4",
+          "status": "done"
         },
         {
-          "title": "智者 2/8",
-          "status": "in-progress"
+          "title": "智者 8/8",
+          "status": "done"
         },
         {
           "title": "神行太保 0/4",
           "status": "planned"
         },
         {
-          "title": "创造者 1/3",
-          "status": "in-progress"
+          "title": "创造者 3/3",
+          "status": "done"
         },
         {
           "title": "搞笑艺人 0/6",
