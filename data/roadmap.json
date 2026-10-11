@@ -1,5 +1,5 @@
 {
-  "version": "0.79.0",
+  "version": "0.80.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -769,8 +769,8 @@
           "status": "done"
         },
         {
-          "title": "进阶二转职业技能 51/62",
-          "status": "in-progress"
+          "title": "进阶二转职业技能 64/64",
+          "status": "done"
         },
         {
           "title": "三转职业技能 101/266",
@@ -936,20 +936,20 @@
           "status": "done"
         },
         {
-          "title": "神行太保 0/4",
-          "status": "planned"
-        },
-        {
-          "title": "创造者 3/3",
+          "title": "神行太保 4/4",
           "status": "done"
         },
         {
-          "title": "搞笑艺人 0/6",
-          "status": "planned"
+          "title": "创造者 4/4",
+          "status": "done"
         },
         {
-          "title": "冷艳舞姬 0/6",
-          "status": "planned"
+          "title": "搞笑艺人 7/7",
+          "status": "done"
+        },
+        {
+          "title": "冷艳舞姬 7/7",
+          "status": "done"
         }
       ]
     },
