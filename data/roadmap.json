@@ -1,5 +1,5 @@
 {
-  "version": "0.81.0",
+  "version": "0.82.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -244,7 +244,7 @@
         },
         {
           "title": "多仓库扩展",
-          "status": "planned"
+          "status": "done"
         }
       ]
     },
@@ -773,11 +773,11 @@
           "status": "done"
         },
         {
-          "title": "三转职业技能 101/266",
+          "title": "三转职业技能 130/266",
           "status": "in-progress"
         },
         {
-          "title": "四转职业技能 9/192",
+          "title": "四转职业技能 10/192",
           "status": "in-progress"
         },
         {
@@ -785,7 +785,7 @@
           "status": "in-progress"
         },
         {
-          "title": "扩展职业技能 100/378",
+          "title": "扩展职业技能 105/378",
           "status": "in-progress"
         },
         {
@@ -973,8 +973,8 @@
           "status": "done"
         },
         {
-          "title": "机械工匠 2/31",
-          "status": "in-progress"
+          "title": "机械工匠 31/31",
+          "status": "done"
         },
         {
           "title": "十字斩首者 3/19",
@@ -1018,7 +1018,7 @@
           "status": "planned"
         },
         {
-          "title": "机甲神匠 1/17",
+          "title": "机甲神匠 2/17",
           "status": "in-progress"
         },
         {
@@ -1084,8 +1084,8 @@
       "name": "地图服务器 · 扩展职业技能",
       "items": [
         {
-          "title": "超级初学者 95/100",
-          "status": "in-progress"
+          "title": "超级初学者 100/100",
+          "status": "done"
         },
         {
           "title": "终极初学者 0/15",
@@ -2102,7 +2102,7 @@
           "status": "done"
         },
         {
-          "title": "脚本指令集 536/605",
+          "title": "脚本指令集 537/605",
           "status": "in-progress"
         },
         {
