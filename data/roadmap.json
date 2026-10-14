@@ -1,5 +1,5 @@
 {
-  "version": "0.82.0",
+  "version": "0.83.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -773,7 +773,7 @@
           "status": "done"
         },
         {
-          "title": "三转职业技能 130/266",
+          "title": "三转职业技能 180/266",
           "status": "in-progress"
         },
         {
@@ -977,16 +977,16 @@
           "status": "done"
         },
         {
-          "title": "十字斩首者 3/19",
-          "status": "in-progress"
+          "title": "十字斩首者 19/19",
+          "status": "done"
         },
         {
-          "title": "皇家禁卫队 1/21",
-          "status": "in-progress"
+          "title": "皇家禁卫队 21/21",
+          "status": "done"
         },
         {
-          "title": "妖术师 14/28",
-          "status": "in-progress"
+          "title": "妖术师 28/28",
+          "status": "done"
         },
         {
           "title": "宫廷乐师 1/25",
@@ -1088,8 +1088,8 @@
           "status": "done"
         },
         {
-          "title": "终极初学者 0/15",
-          "status": "planned"
+          "title": "终极初学者 15/15",
+          "status": "done"
         },
         {
           "title": "跆拳道 0/17",
