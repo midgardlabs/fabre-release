@@ -1,5 +1,5 @@
 {
-  "version": "0.83.0",
+  "version": "0.84.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -785,7 +785,7 @@
           "status": "in-progress"
         },
         {
-          "title": "扩展职业技能 105/378",
+          "title": "扩展职业技能 122/378",
           "status": "in-progress"
         },
         {
@@ -1092,16 +1092,16 @@
           "status": "done"
         },
         {
-          "title": "跆拳道 0/17",
-          "status": "planned"
+          "title": "跆拳道 17/17",
+          "status": "done"
         },
         {
-          "title": "拳圣 0/18",
-          "status": "planned"
+          "title": "拳圣 18/18",
+          "status": "done"
         },
         {
-          "title": "悟灵士 1/27",
-          "status": "in-progress"
+          "title": "悟灵士 27/27",
+          "status": "done"
         },
         {
           "title": "拳皇 0/20",
