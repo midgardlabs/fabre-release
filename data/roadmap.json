@@ -1,5 +1,5 @@
 {
-  "version": "0.84.0",
+  "version": "0.85.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -773,15 +773,15 @@
           "status": "done"
         },
         {
-          "title": "三转职业技能 180/266",
-          "status": "in-progress"
+          "title": "三转职业技能 266/266",
+          "status": "done"
         },
         {
           "title": "四转职业技能 10/192",
           "status": "in-progress"
         },
         {
-          "title": "多兰族职业技能 5/54",
+          "title": "多兰族职业技能 36/54",
           "status": "in-progress"
         },
         {
@@ -989,24 +989,24 @@
           "status": "done"
         },
         {
-          "title": "宫廷乐师 1/25",
-          "status": "in-progress"
+          "title": "宫廷乐师 25/25",
+          "status": "done"
         },
         {
-          "title": "浪姬舞者 1/25",
-          "status": "in-progress"
+          "title": "浪姬舞者 25/25",
+          "status": "done"
         },
         {
-          "title": "修罗 2/24",
-          "status": "in-progress"
+          "title": "修罗 24/24",
+          "status": "done"
         },
         {
-          "title": "魅影追踪者 3/23",
-          "status": "in-progress"
+          "title": "魅影追踪者 23/23",
+          "status": "done"
         },
         {
-          "title": "基因学者 2/19",
-          "status": "in-progress"
+          "title": "基因学者 19/19",
+          "status": "done"
         }
       ]
     },
@@ -1071,8 +1071,8 @@
       "name": "地图服务器 · 多兰族职业技能",
       "items": [
         {
-          "title": "召唤师 5/36",
-          "status": "in-progress"
+          "title": "召唤师 36/36",
+          "status": "done"
         },
         {
           "title": "魂灵师 0/18",
