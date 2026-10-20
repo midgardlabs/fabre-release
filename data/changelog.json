@@ -1,5 +1,115 @@
 [
   {
+    "version": "0.86.0",
+    "date": "2026-10-21",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "实现卢恩龙爵 13 项技能: 死侍武器, 龙系攻击, 防御与战斗增益"
+      },
+      {
+        "type": "feature",
+        "description": "实现帝国圣卫军 9 项技能: 圣属性攻击, 盾系防护, 牺牲与攻防架式"
+      },
+      {
+        "type": "feature",
+        "description": "实现十字影武 9 项技能: 近战连击, 范围攻击, 毒液与魅影强化"
+      },
+      {
+        "type": "feature",
+        "description": "实现禁咒魔导士 17 项技能: 多属性魔法, 地面持续攻击, 魔力强化与能量转化"
+      },
+      {
+        "type": "feature",
+        "description": "实现枢机主教 13 项技能: 圣属性攻击, 范围治疗, 团队增益与抗性穿透"
+      },
+      {
+        "type": "feature",
+        "description": "实现风鹰狩猎者 14 项技能: 猎鹰协同, 狙击, 疾行, 风暴与多种陷阱"
+      },
+      {
+        "type": "feature",
+        "description": "实现机甲神匠 12 项技能: 斧技, 雷射攻击, 攻防装置与 ABR 召唤"
+      },
+      {
+        "type": "feature",
+        "description": "实现生命缔造者 15 项技能: 仿生召唤, 强酸禁地, 粉末攻击与化学保护"
+      },
+      {
+        "type": "feature",
+        "description": "实现魂灵师 17 项技能: 铁虎与玄鹿系攻击, 神龟系治疗, 团队辅助与灵物交流"
+      },
+      {
+        "type": "feature",
+        "description": "实现神枪手 15 项技能: 多种枪械攻击, 硬币投掷, 武器卸除与战斗增益"
+      },
+      {
+        "type": "feature",
+        "description": "实现叛乱者 12 项技能: 枪械攻击, 陷阱, 标记引爆与战斗增益"
+      },
+      {
+        "type": "feature",
+        "description": "实现夜行使 14 项技能: 枪械与榴弹攻击, 瞄准及自动施放"
+      },
+      {
+        "type": "feature",
+        "description": "实现忍者 20 项技能: 投掷, 隐匿与位移, 属性忍术, 分身与念系攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现拳皇 17 项技能: 日月星攻击与架式, 目标标记, 重力控制与地面攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现 `arrow_decrement` 配置的三种弹药消耗模式: 可为远程武器技能补充弹药需求"
+      },
+      {
+        "type": "fix",
+        "description": "修复弓, 乐器, 鞭与枪械的基础攻击错误地以力量为主属性计算的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复受到 \"牺牲\" 保护时延迟技能仍对原目标附加异常状态的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复复兴后禁咒魔导士使用双手杖时 \"双手杖使用熟练度\" 的魔法增伤不足的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复枪械缺少匹配弹药时普攻没有失败提示的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复拥有全装备穿戴权限的角色仍受职业与等级限制的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复悟灵士 \"超级初学者的灵魂\" 允许的装备仍被剥除状态阻止穿戴的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复 `getiteminfo` 查询武器与弹药子类型时返回错误编号的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复祭司施放 \"沉默之术\" 后切换决斗状态仍使原目标沉默的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复新生成魔物过早开始随机游走的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复有主人的魔物在没有目标时随机游走的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复魔物脱战后过早开始随机游走的问题"
+      }
+    ]
+  },
+  {
     "version": "0.85.0",
     "date": "2026-10-16",
     "changes": [

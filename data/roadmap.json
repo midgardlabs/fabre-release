@@ -1,5 +1,5 @@
 {
-  "version": "0.85.0",
+  "version": "0.86.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -777,15 +777,15 @@
           "status": "done"
         },
         {
-          "title": "四转职业技能 10/192",
+          "title": "四转职业技能 130/192",
           "status": "in-progress"
         },
         {
-          "title": "多兰族职业技能 36/54",
-          "status": "in-progress"
+          "title": "多兰族职业技能 54/54",
+          "status": "done"
         },
         {
-          "title": "扩展职业技能 122/378",
+          "title": "扩展职业技能 279/378",
           "status": "in-progress"
         },
         {
@@ -1014,36 +1014,36 @@
       "name": "地图服务器 · 四转职业技能",
       "items": [
         {
-          "title": "卢恩龙爵 0/13",
-          "status": "planned"
+          "title": "卢恩龙爵 13/13",
+          "status": "done"
         },
         {
-          "title": "机甲神匠 2/17",
-          "status": "in-progress"
+          "title": "机甲神匠 17/17",
+          "status": "done"
         },
         {
-          "title": "十字影武 0/11",
-          "status": "planned"
+          "title": "十字影武 11/11",
+          "status": "done"
         },
         {
-          "title": "禁咒魔导士 0/19",
-          "status": "planned"
+          "title": "禁咒魔导士 19/19",
+          "status": "done"
         },
         {
-          "title": "枢机主教 1/17",
-          "status": "in-progress"
+          "title": "枢机主教 17/17",
+          "status": "done"
         },
         {
-          "title": "风鹰狩猎者 0/14",
-          "status": "planned"
+          "title": "风鹰狩猎者 14/14",
+          "status": "done"
         },
         {
-          "title": "帝国圣卫军 0/16",
-          "status": "planned"
+          "title": "帝国圣卫军 16/16",
+          "status": "done"
         },
         {
-          "title": "生命缔造者 1/17",
-          "status": "in-progress"
+          "title": "生命缔造者 17/17",
+          "status": "done"
         },
         {
           "title": "深渊追迹者 0/16",
@@ -1075,8 +1075,8 @@
           "status": "done"
         },
         {
-          "title": "魂灵师 0/18",
-          "status": "planned"
+          "title": "魂灵师 18/18",
+          "status": "done"
         }
       ]
     },
@@ -1104,8 +1104,8 @@
           "status": "done"
         },
         {
-          "title": "拳皇 0/20",
-          "status": "planned"
+          "title": "拳皇 20/20",
+          "status": "done"
         },
         {
           "title": "猎灵士 0/17",
@@ -1120,20 +1120,20 @@
           "status": "planned"
         },
         {
-          "title": "神枪手 1/22",
-          "status": "in-progress"
+          "title": "神枪手 22/22",
+          "status": "done"
         },
         {
-          "title": "叛乱者 3/20",
-          "status": "in-progress"
+          "title": "叛乱者 20/20",
+          "status": "done"
         },
         {
-          "title": "夜行使 0/17",
-          "status": "planned"
+          "title": "夜行使 17/17",
+          "status": "done"
         },
         {
-          "title": "忍者 0/23",
-          "status": "planned"
+          "title": "忍者 23/23",
+          "status": "done"
         },
         {
           "title": "日影忍者 0/25",
