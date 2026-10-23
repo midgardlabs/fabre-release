@@ -1,5 +1,5 @@
 {
-  "version": "0.86.0",
+  "version": "0.87.0",
   "groups": [
     {
       "name": "登录服务器",
@@ -777,16 +777,16 @@
           "status": "done"
         },
         {
-          "title": "四转职业技能 130/192",
-          "status": "in-progress"
+          "title": "四转职业技能 192/192",
+          "status": "done"
         },
         {
           "title": "多兰族职业技能 54/54",
           "status": "done"
         },
         {
-          "title": "扩展职业技能 279/378",
-          "status": "in-progress"
+          "title": "扩展职业技能 378/378",
+          "status": "done"
         },
         {
           "title": "NPC 技能 12/173",
@@ -1046,24 +1046,24 @@
           "status": "done"
         },
         {
-          "title": "深渊追迹者 0/16",
-          "status": "planned"
+          "title": "深渊追迹者 16/16",
+          "status": "done"
         },
         {
-          "title": "元素支配者 6/18",
-          "status": "in-progress"
+          "title": "元素支配者 18/18",
+          "status": "done"
         },
         {
-          "title": "圣裁者 0/18",
-          "status": "planned"
+          "title": "圣裁者 18/18",
+          "status": "done"
         },
         {
-          "title": "天籁颂者 0/16",
-          "status": "planned"
+          "title": "天籁颂者 16/16",
+          "status": "done"
         },
         {
-          "title": "乐之舞灵 0/16",
-          "status": "planned"
+          "title": "乐之舞灵 16/16",
+          "status": "done"
         }
       ]
     },
@@ -1108,16 +1108,16 @@
           "status": "done"
         },
         {
-          "title": "猎灵士 0/17",
-          "status": "planned"
+          "title": "猎灵士 17/17",
+          "status": "done"
         },
         {
-          "title": "天帝 0/16",
-          "status": "planned"
+          "title": "天帝 16/16",
+          "status": "done"
         },
         {
-          "title": "契灵士 0/17",
-          "status": "planned"
+          "title": "契灵士 17/17",
+          "status": "done"
         },
         {
           "title": "神枪手 22/22",
@@ -1136,20 +1136,20 @@
           "status": "done"
         },
         {
-          "title": "日影忍者 0/25",
-          "status": "planned"
+          "title": "日影忍者 25/25",
+          "status": "done"
         },
         {
-          "title": "月影忍者 0/25",
-          "status": "planned"
+          "title": "月影忍者 25/25",
+          "status": "done"
         },
         {
-          "title": "流浪忍者 0/21",
-          "status": "planned"
+          "title": "流浪忍者 21/21",
+          "status": "done"
         },
         {
-          "title": "疾风忍者 0/21",
-          "status": "planned"
+          "title": "疾风忍者 21/21",
+          "status": "done"
         }
       ]
     },

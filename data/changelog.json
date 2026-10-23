@@ -1,5 +1,59 @@
 [
   {
+    "version": "0.87.0",
+    "date": "2026-10-23",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "实现深渊追迹者技能: 短剑与弓弩攻击, 深渊魔法, 影子装备卸除与战斗增益"
+      },
+      {
+        "type": "feature",
+        "description": "实现元素支配者技能: 多属性魔法, 地面攻击, 精灵隐匿与 AP 辅助"
+      },
+      {
+        "type": "feature",
+        "description": "实现圣裁者技能: 信念增益, 章节与烙印连段, 圣油与火焰攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现天籁颂者与乐之舞灵技能: 团队增益, 敌方干扰, 玫瑰与节奏攻击"
+      },
+      {
+        "type": "feature",
+        "description": "实现天帝技能: 日月连段, 星系攻击与天气强化"
+      },
+      {
+        "type": "feature",
+        "description": "实现契灵士技能: 符咒增益, 灵魂资源, 四神攻击与范围治疗"
+      },
+      {
+        "type": "feature",
+        "description": "实现猎灵士技能: 灵魂球, 灵魂链接, 艾斯魔法与 \"灵魂引爆\""
+      },
+      {
+        "type": "feature",
+        "description": "实现日影忍者与月影忍者技能: 飞刀, 幻术, 护符法术与职业专属增益"
+      },
+      {
+        "type": "feature",
+        "description": "实现流浪忍者与疾风忍者技能: 幻影炮术, 飞刀, 风魔飞镖与噩梦攻击"
+      },
+      {
+        "type": "fix",
+        "description": "修复日影忍者与月影忍者的同属性护符满额后仍消耗 SP 与道具的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复日影忍者施加 \"踏影\" 后目标仍可施放受限技能的问题"
+      },
+      {
+        "type": "fix",
+        "description": "修复元素支配者上位召唤状态的对应属性魔法增伤未生效的问题"
+      }
+    ]
+  },
+  {
     "version": "0.86.0",
     "date": "2026-10-21",
     "changes": [
